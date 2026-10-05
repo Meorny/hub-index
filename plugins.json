@@ -1,0 +1,376 @@
+[
+  {
+    "id": "plugin-marketplace",
+    "type": "plugin",
+    "name": "插件市场",
+    "description": "OpenHanako 插件 & Skill 中心。基于 GitHub 仓库的社区应用商店，支持浏览、搜索、安装、上传和 ",
+    "usage": "OpenHanako 插件 & Skill 中心。基于 GitHub 仓库的社区应用商店，支持浏览、搜索、安装、上传和 ",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/plugin-marketplace",
+    "version": "0.1.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 9,
+    "based_on": null,
+    "created_at": "2026-06-30T00:50:10Z",
+    "updated_at": "2026-06-30T13:47:21Z"
+  },
+  {
+    "id": "plugin-hub",
+    "type": "plugin",
+    "name": "插件抽屉",
+    "description": "管理顶栏插件显示与收纳。抽屉浏览（按文件夹分类、点击打开）+ 管理（显隐开关、文件夹管理、批量操作）。安全版：插件启动时",
+    "usage": "管理顶栏插件显示与收纳。抽屉浏览（按文件夹分类、点击打开）+ 管理（显隐开关、文件夹管理、批量操作）。安全版：插件启动时",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/plugin-hub",
+    "version": "1.6.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 2,
+    "based_on": null,
+    "created_at": "2026-06-25T20:35:59Z",
+    "updated_at": "2026-07-23T13:42:55Z"
+  },
+  {
+    "id": "weather-sense",
+    "type": "plugin",
+    "name": "天气感知 WeatherSense",
+    "description": "增强 Hanako 的天气与环境感知：自动获取所在城市（IP 自动定位，可配置锁定），后台定时缓存实时天气与明日预报，在",
+    "usage": "增强 Hanako 的天气与环境感知：自动获取所在城市（IP 自动定位，可配置锁定），后台定时缓存实时天气与明日预报，在",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/weather-sense",
+    "version": "1.1.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-08-28T15:46:07Z",
+    "updated_at": "2026-08-28T15:46:46Z"
+  },
+  {
+    "id": "time-sense",
+    "type": "plugin",
+    "name": "时间感知 TimeSense",
+    "description": "增强 Hanako 的时间感知：在每次模型请求前自动注入当前时间快照，命中时间词或间隔超时强制刷新，确保模型无需显式调用",
+    "usage": "增强 Hanako 的时间感知：在每次模型请求前自动注入当前时间快照，命中时间词或间隔超时强制刷新，确保模型无需显式调用",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/time-sense",
+    "version": "1.0.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-08-28T15:45:59Z",
+    "updated_at": "2026-08-28T15:46:44Z"
+  },
+  {
+    "id": "thinking-language",
+    "type": "plugin",
+    "name": "思考语言控制",
+    "description": "v4.2.0: 扩展thinking参数支持国产主流模型（GLM、Kimi、MiMo、豆包、Step等），数组管理便于维",
+    "usage": "v4.2.0: 扩展thinking参数支持国产主流模型（GLM、Kimi、MiMo、豆包、Step等），数组管理便于维",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/think-lang-control",
+    "version": "4.2.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 2,
+    "based_on": null,
+    "created_at": "2026-06-25T12:20:55Z",
+    "updated_at": "2026-07-04T13:41:22Z"
+  },
+  {
+    "id": "hana-backup",
+    "type": "plugin",
+    "name": "数据备份 S3对象存储版",
+    "description": "一键备份/迁移 Hanako 数据，自动生成一键还原脚本，支持本地/WebDAV/S3 对象存储。S3/WebDAV 远",
+    "usage": "一键备份/迁移 Hanako 数据，自动生成一键还原脚本，支持本地/WebDAV/S3 对象存储。S3/WebDAV 远",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/hana-backup-s3",
+    "version": "2.3.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 1,
+    "based_on": null,
+    "created_at": "2026-06-26T04:44:40Z",
+    "updated_at": "2026-06-26T04:46:58Z"
+  },
+  {
+    "id": "mcp-keepalive",
+    "type": "plugin",
+    "name": "MCP Keepalive",
+    "description": "MCP 连接器保活守护进程。自动监控所有 MCP 连接器状态，异常时自动重启，不消耗 AI token。",
+    "usage": "MCP 连接器保活守护进程。自动监控所有 MCP 连接器状态，异常时自动重启，不消耗 AI token。",
+    "author": {
+      "name": "hayou2002",
+      "github": "hayou2002"
+    },
+    "repo": "hayou2002/mcp-keepalive",
+    "version": "0.1.0",
+    "category": "dev-tools",
+    "tags": [
+      "hayou2002",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-07-29T09:24:53Z",
+    "updated_at": "2026-07-29T09:25:10Z"
+  },
+  {
+    "id": "crystal-speech-emote",
+    "type": "plugin",
+    "name": "晶花发言与表情系统",
+    "description": "粉色花体英文发言格式 + 多助手表情包系统。",
+    "usage": "粉色花体英文发言格式 + 多助手表情包系统。",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-crystal-speech",
+    "version": "0.2.0",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-05-16T13:07:19Z",
+    "updated_at": "2026-08-07T14:15:52Z"
+  },
+  {
+    "id": "hanako-handwriting",
+    "type": "plugin",
+    "name": "手写稿生成器",
+    "description": "将文本渲染为手写风格图片的工作台",
+    "usage": "将文本渲染为手写风格图片的工作台",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-handwriting",
+    "version": "0.1.0",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 1,
+    "based_on": null,
+    "created_at": "2026-05-19T09:17:38Z",
+    "updated_at": "2026-08-02T15:27:57Z"
+  },
+  {
+    "id": "hanako-audio-player",
+    "type": "plugin",
+    "name": "音频播放器",
+    "description": "音频播放器：本地音乐与在线音乐播放，含歌词横幅、配色主题、音频反应与背景动效。从 v1 插件迁移而来。",
+    "usage": "音频播放器：本地音乐与在线音乐播放，含歌词横幅、配色主题、音频反应与背景动效。从 v1 插件迁移而来。",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-audio-player",
+    "version": "0.8.0",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 2,
+    "based_on": null,
+    "created_at": "2026-05-20T11:57:54Z",
+    "updated_at": "2026-10-03T05:25:40Z"
+  },
+  {
+    "id": "mo-shu",
+    "type": "plugin",
+    "name": "墨述",
+    "description": "墨述 (Ink Narrative) — Hanako 写作工具箱",
+    "usage": "墨述 (Ink Narrative) — Hanako 写作工具箱",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-moshu",
+    "version": "0.3.1",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 2,
+    "based_on": null,
+    "created_at": "2026-05-24T01:19:53Z",
+    "updated_at": "2026-08-22T02:38:50Z"
+  },
+  {
+    "id": "hana-time-tracker",
+    "type": "plugin",
+    "name": "时间统计",
+    "description": "自动记录前台窗口活动 + 安全检测 + 时间统计看板。koffi + sql.js 本地优先。",
+    "usage": "自动记录前台窗口活动 + 安全检测 + 时间统计看板。koffi + sql.js 本地优先。",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-time-tracker",
+    "version": "0.5.0",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 1,
+    "based_on": null,
+    "created_at": "2026-05-25T06:01:49Z",
+    "updated_at": "2026-08-22T02:38:50Z"
+  },
+  {
+    "id": "hanako-gallery",
+    "type": "plugin",
+    "name": "Hanako Gallery",
+    "description": "图库管理：目录导入、EXIF 索引、标签、缩略图、全文检索、Markdown 引用。图片本体留在原目录，索引与缩略图存应",
+    "usage": "图库管理：目录导入、EXIF 索引、标签、缩略图、全文检索、Markdown 引用。图片本体留在原目录，索引与缩略图存应",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-gallery",
+    "version": "0.8.1",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 2,
+    "based_on": null,
+    "created_at": "2026-05-29T01:13:00Z",
+    "updated_at": "2026-10-02T06:13:29Z"
+  },
+  {
+    "id": "legado-companion",
+    "type": "plugin",
+    "name": "阅读·伴脑",
+    "description": "让 Hanako 联结你的开源阅读（Legado），伴你阅读。",
+    "usage": "让 Hanako 联结你的开源阅读（Legado），伴你阅读。",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-legado",
+    "version": "0.3.0",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-06-17T06:09:42Z",
+    "updated_at": "2026-08-22T02:38:17Z"
+  },
+  {
+    "id": "bilibili-intake-v2",
+    "type": "plugin",
+    "name": "内容摄取 (Bilibili Intake)",
+    "description": "多平台内容摄取引擎 —— B站 / 小红书 / 微博 / 知乎 / 贴吧 / 抖音 / 快手，也能读本地文档。正文、字幕",
+    "usage": "多平台内容摄取引擎 —— B站 / 小红书 / 微博 / 知乎 / 贴吧 / 抖音 / 快手，也能读本地文档。正文、字幕",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-bilibili-intake",
+    "version": "0.6.68",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-06-27T09:29:07Z",
+    "updated_at": "2026-10-04T04:30:38Z"
+  },
+  {
+    "id": "hanako-mail",
+    "type": "plugin",
+    "name": "Hanako Mail",
+    "description": "多邮箱聚合管理：ClawEmail / AgentQQ 官方 API + 个人邮箱 IMAP/SMTP，支持多账号、文件",
+    "usage": "多邮箱聚合管理：ClawEmail / AgentQQ 官方 API + 个人邮箱 IMAP/SMTP，支持多账号、文件",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-mail",
+    "version": "0.6.15",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-07-26T04:10:28Z",
+    "updated_at": "2026-10-02T07:12:56Z"
+  },
+  {
+    "id": "eleckoi-tavern",
+    "type": "plugin",
+    "name": "夜航船 · Night Ferry Tavern",
+    "description": "夜航船 · Night Ferry Tavern · Hana v2 App — 角色卡、对话、LLM、变量、设定库、提",
+    "usage": "夜航船 · Night Ferry Tavern · Hana v2 App — 角色卡、对话、LLM、变量、设定库、提",
+    "author": {
+      "name": "openhanako-labs",
+      "github": "openhanako-labs"
+    },
+    "repo": "openhanako-labs/openhanako-tavern",
+    "version": "0.6.0",
+    "category": "dev-tools",
+    "tags": [
+      "openhanako-labs",
+      "hanako"
+    ],
+    "stars": 0,
+    "based_on": null,
+    "created_at": "2026-09-30T12:27:07Z",
+    "updated_at": "2026-10-04T11:54:30Z"
+  }
+]
