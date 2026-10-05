@@ -1,0 +1,86 @@
+{
+  "pluginCategories": [
+    {
+      "id": "model-control",
+      "name": "模型控制",
+      "icon": "🧠"
+    },
+    {
+      "id": "workspace",
+      "name": "工作区",
+      "icon": "📁"
+    },
+    {
+      "id": "search",
+      "name": "搜索增强",
+      "icon": "🔍"
+    },
+    {
+      "id": "media",
+      "name": "媒体生成",
+      "icon": "🎨"
+    },
+    {
+      "id": "knowledge",
+      "name": "知识管理",
+      "icon": "📝"
+    },
+    {
+      "id": "automation",
+      "name": "自动化",
+      "icon": "⚡"
+    },
+    {
+      "id": "dev-tools",
+      "name": "开发工具",
+      "icon": "🛠️"
+    },
+    {
+      "id": "other-plugin",
+      "name": "其他",
+      "icon": "📦"
+    }
+  ],
+  "skillCategories": [
+    {
+      "id": "note-taking",
+      "name": "笔记与写作",
+      "icon": "✍️"
+    },
+    {
+      "id": "exam-prep",
+      "name": "考试备考",
+      "icon": "📚"
+    },
+    {
+      "id": "job-hunting",
+      "name": "求职就业",
+      "icon": "💼"
+    },
+    {
+      "id": "system-admin",
+      "name": "系统管理",
+      "icon": "🖥️"
+    },
+    {
+      "id": "dev-ops",
+      "name": "开发运维",
+      "icon": "🔧"
+    },
+    {
+      "id": "media-creation",
+      "name": "媒体创作",
+      "icon": "🎬"
+    },
+    {
+      "id": "life-tools",
+      "name": "生活工具",
+      "icon": "🏠"
+    },
+    {
+      "id": "other-skill",
+      "name": "其他",
+      "icon": "📦"
+    }
+  ]
+}
